@@ -1,3 +1,4 @@
 .nvimproj
 .idea/
 out/
+*.iml
